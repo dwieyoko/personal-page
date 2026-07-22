@@ -95,7 +95,7 @@ export const projects: Project[] = [
   {
     id: "asml-discovery",
     number: "01",
-    title: "ASML Discovery Onboarding Platform",
+    title: "ASML Discovery",
     subtitle: "Enterprise Gamified Onboarding System",
     description: "Interactive knowledge onboarding system designed for ASML. Integrates immersive visual map navigation, custom gamification mechanics, and SAML SSO authentication to guide new hires through the company's complex value streams, tech stacks, and organizational workflows.",
     tags: ["WordPress", "PHP", "JavaScript", "Gamification", "SAML SSO", "SCSS", "Firebase"],
