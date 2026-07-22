@@ -93,15 +93,15 @@ export const experiences: Experience[] = [
 
 export const projects: Project[] = [
   {
-    id: "mapsteps-directory",
+    id: "asml-discovery",
     number: "01",
-    title: "MapSteps Enterprise Directory System",
-    subtitle: "High-Performance WordPress Directory & Sync Engine",
-    description: "Enterprise multi-directory architecture for WordPress featuring asynchronous AJAX search filtering, real-time organization sync, and custom REST API endpoints handling thousands of geo-located entries.",
-    tags: ["WordPress", "PHP", "REST API", "AJAX", "MySQL", "Tailwind CSS"],
-    icon: "🗺️",
+    title: "ASML Discovery Onboarding Platform",
+    subtitle: "Enterprise Gamified Onboarding System",
+    description: "Interactive knowledge onboarding system designed for ASML. Integrates immersive visual map navigation, custom gamification mechanics, and SAML SSO authentication to guide new hires through the company's complex value streams, tech stacks, and organizational workflows.",
+    tags: ["WordPress", "PHP", "JavaScript", "Gamification", "SAML SSO", "CSS3"],
+    icon: "🌐",
     featured: true,
-    demoUrl: "https://mapsteps.com",
+    demoUrl: "https://asml-discovery.com/",
     githubUrl: "#"
   },
   {
