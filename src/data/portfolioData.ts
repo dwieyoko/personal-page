@@ -107,9 +107,9 @@ export const projects: Project[] = [
   {
     id: "online-patient-registration-system",
     number: "02",
-    title: "Online patient Registration for a Clinic",
-    subtitle: "Online patient Registration System",
-    description: "Online patient Registration system allowing users to create an appointment and  with optimized database caching.",
+    title: "Online Patient Registration",
+    subtitle: "Patient Registration System",
+    description: "Online patient registration system for clinic allowing users to create an appointment.",
     tags: ["PHP", "Tailwind CSS"],
     icon: "📋",
     featured: true,
@@ -131,13 +131,25 @@ export const projects: Project[] = [
   {
     id: "afss-buyer-guide",
     number: "04",
-    title: "AFSS Society Buyer Guide",
+    title: "AFS Society Buyer Guide",
     subtitle: "Governmental Association Buyer Guide",
-    description: "Custom buyer guide for governmental association.",
+    description: "Custom buyer guide for AFS Society website.",
     tags: ["PHP", "Tailwind CSS", "WordPress", "Impexium Integration"],
     icon: "🧩",
     featured: true,
     demoUrl: "https://www.afssociety.org/corporate-members-buyer-guide/",
+    githubUrl: "#"
+  },
+  {
+    id: "dosage-calculator",
+    number: "05",
+    title: "Dosage Calculator",
+    subtitle: "Dosage Calculator",
+    description: "Dosage calculator for fullforce solutions website ",
+    tags: ["SolidJS", "JavaScript", "PHP", "Tailwind CSS", "WordPress", "Custom Gutenberg Blocks"],
+    icon: "🧩",
+    featured: true,
+    demoUrl: "https://fullforcesolutions.us/dosage-calculator/",
     githubUrl: "#"
   }
 ];
